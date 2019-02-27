@@ -1,0 +1,21 @@
+{
+  "name": "atemp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fetch-with-proxy": "^1.1.0",
+    "firebase": "^5.8.4",
+    "random-js": "^2.0.0-rc2",
+    "request": "^2.88.0",
+    "require-promise": "^1.0.1",
+    "soap": "^0.26.0",
+    "tunnel": "0.0.6"
+  }
+}
